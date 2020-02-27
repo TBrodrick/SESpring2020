@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="AddressEntry" type="CLASS" />
       <mapping pattern="AddressEntry.java" type="PLAIN_TEXT" />
+      <mapping pattern="DBCode" type="SQL" />
     </extensionMap>
   </component>
 </application>
